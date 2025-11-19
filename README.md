@@ -1,13 +1,11 @@
 ![MasterHead](https://d33wubrfki0l68.cloudfront.net/939924a0266dea6e4435e271ca147cdd55194a74/aa9fb/img/platform/machine-learning.gif)
 
 <h1 align="center">Hi 👋, I'm Walaa </h1>
-<h3 align="center">A passionate Data Scientist | Machine Learning Engineer from Egypt</h3>
+<h3 align="center">A passionate Data Management Consultant from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walaaelnokrashy&label=Profile%20views&color=0e75b6&style=flat" alt="walaaelnokrashy" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning, Data Science, Data Analysis**
 
 - 📫 How to reach me **walaaelnokrashy912@gmail.com**
 
