@@ -1,6 +1,6 @@
-[![MasterHead](https://d33wubrfki0l68.cloudfront.net/939924a0266dea6e4435e271ca147cdd55194a74/aa9fb/img/platform/machine-learning.gif)]
+![MasterHead](https://d33wubrfki0l68.cloudfront.net/939924a0266dea6e4435e271ca147cdd55194a74/aa9fb/img/platform/machine-learning.gif)
 
-<h1 align="center">Hi 👋, I'm Walaa Abdelkader</h1>
+<h1 align="center">Hi 👋, I'm Walaa </h1>
 <h3 align="center">A passionate Data Scientist | Machine Learning Engineer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
